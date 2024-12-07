@@ -30,7 +30,7 @@ ________________________________________________________________________________
 To install the necessary tools for managing your Hami node, run the following command in your terminal:
 
 ```
-cd $HOME && wget https://raw.githubusercontent.com/khangnguyennn/hemi/main/hemi.sh && chmod +x run.sh && ./run.sh
+cd $HOME && wget https://raw.githubusercontent.com/khangnguyennn/hemi/main/run.sh && chmod +x run.sh && ./run.sh
 ```
 
 
