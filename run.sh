@@ -200,7 +200,7 @@ node_menu() {
     print_info "7. Exit"
     print_info ""
     print_info "==============================="
-    print_info " Created By : CryptoBuroMaster "
+    print_info " Created By : VNBNODE "
     print_info "==============================="
     print_info ""  
 
